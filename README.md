@@ -1,7 +1,4 @@
-# Text-Overlay-on-Image-with-CSS-and-JavaScript
-
 # **Text Overlay on Image: A Comprehensive Guide**
-
 This repository is dedicated to demonstrating the creation of text overlays on images using HTML, CSS, and JavaScript. It provides step-by-step examples and reusable code snippets to help developers implement professional and visually appealing overlays for various projects, from websites to portfolios.
 
 ## **Features**
