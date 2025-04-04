@@ -29,7 +29,7 @@ Text overlays are essential for merging design aesthetics with functionality. Th
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="230px">
+      <td align="center" width="350px">
         <span><img src="https://raw.githubusercontent.com/MdJahidShah/Text-Overlay-on-Image-with-CSS-and-JavaScript/refs/heads/main/images/coffee.webp"></span>
       </td>
     </tr>
