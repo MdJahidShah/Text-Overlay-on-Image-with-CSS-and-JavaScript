@@ -26,7 +26,15 @@ This repository is designed for:
 
 ## **Why Text Overlay on Image?**
 Text overlays are essential for merging design aesthetics with functionality. They allow you to communicate key messages effectively while maintaining a sleek, modern look. From enhancing branding to improving user engagement, this technique is a must-have in every developer’s toolkit.
-<span style="width:230px;height:auto;"><img src="https://raw.githubusercontent.com/MdJahidShah/Text-Overlay-on-Image-with-CSS-and-JavaScript/refs/heads/main/images/coffee.webp"></span>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="230px">
+        <span><img src="https://raw.githubusercontent.com/MdJahidShah/Text-Overlay-on-Image-with-CSS-and-JavaScript/refs/heads/main/images/coffee.webp"></span>
+      </td>
+    </tr>
+   </table>
+</div>
 
 ## **Live Preview
 To see the live preview. [Click here](https://mdjahidshah.github.io/Text-Overlay-on-Image-with-CSS-and-JavaScript)
